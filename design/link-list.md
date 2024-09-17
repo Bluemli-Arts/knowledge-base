@@ -72,7 +72,14 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
 https://getwaves.io/
 https://app.haikei.app/
 https://uiverse.io/
+</details>
+
+#### Dark Mode
+<details>
+<summary>show</summary>
 https://m2.material.io/design/color/dark-theme.html
+https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
+https://atmos.style/blog/dark-mode-ui-best-practices
 </details>
 
 ## Accessibility
