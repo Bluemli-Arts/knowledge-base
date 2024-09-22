@@ -88,3 +88,39 @@ https://atmos.style/blog/dark-mode-ui-best-practices
 <summary>show</summary>
 https://webaim.org/resources/contrastchecker/
 </details>
+
+## Responsive Webdesign
+
+### Media Queries
+
+https://css-tricks.com/a-complete-guide-to-css-media-queries/
+
+### Images
+
+https://www.freecodecamp.org/news/css-responsive-image-tutorial/
+https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
+
+### Text
+
+https://blog.hubspot.com/website/responsive-text
+https://developer.mozilla.org/en-US/docs/Web/CSS/clamp
+
+## CSS General
+
+https://www.freecodecamp.org/news/learn-css-variables-in-5-minutes-80cf63b4025d/
+https://www.w3schools.com/howto/howto_css_menu_icon.asp
+
+## Flexbox & Grid
+
+### Flexbox
+
+https://flexboxfroggy.com/#de
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.developerdrive.com/holy-grail-layout-flexbox/:~:text=Add%20the%20Flexbox%20Rules%20for,-direction:%20column;%20rule.
+https://tobiasahlin.com/blog/common-flexbox-patterns/
+
+
+
+
+
+
